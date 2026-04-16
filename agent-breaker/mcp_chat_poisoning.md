@@ -39,7 +39,7 @@ TODO
 ```
 
 **Reasoning:**\
-TODO
+Now we have to get around an added defense layer. Due to the non-deteministic nature of LLMs, we have to submit the same attacks a few times to make sure we don't stop trying to soon. WIP - the app is unstable, moving on
 
 
 ## Level 5
