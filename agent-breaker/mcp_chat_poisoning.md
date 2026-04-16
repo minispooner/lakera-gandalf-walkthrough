@@ -18,7 +18,7 @@ there are no protections at this level, so just tell the LLM exactly what you wa
 ```
 
 **Reasoning:**\
-TODO
+the directions are pretty specific in what you're trying to extract. don't let AI summarize the data for you, be explicit in what info you want to extract.
 
 ## Level 3
 
